@@ -1,0 +1,10 @@
+C:\Users\leckson\source\repos\CursoCSharp\bin\Debug\CursoCSharp.exe.config
+C:\Users\leckson\source\repos\CursoCSharp\bin\Debug\CursoCSharp.exe
+C:\Users\leckson\source\repos\CursoCSharp\bin\Debug\CursoCSharp.pdb
+C:\Users\leckson\source\repos\CursoCSharp\obj\Debug\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\leckson\source\repos\CursoCSharp\obj\Debug\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\leckson\source\repos\CursoCSharp\obj\Debug\CursoCSharp.exe
+C:\Users\leckson\source\repos\CursoCSharp\obj\Debug\CursoCSharp.pdb
+C:\Users\leckson\source\repos\CursoCSharp\bin\Debug\Encapsulamento.dll
+C:\Users\leckson\source\repos\CursoCSharp\bin\Debug\Encapsulamento.pdb
+C:\Users\leckson\source\repos\CursoCSharp\obj\Debug\CursoCSh.88BC1E5B.Up2Date
